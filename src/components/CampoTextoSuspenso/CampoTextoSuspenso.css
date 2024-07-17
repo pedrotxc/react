@@ -1,0 +1,18 @@
+.campo-texto-suspenso {
+    margin: 24px 0;
+}
+
+.campo-texto-suspenso label {
+    display: block;
+    margin-bottom: 18px;
+    font-size: 24px;
+}
+
+.campo-texto-suspenso select {
+    border: none;
+    font-size: 24px;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 24px;
+}
